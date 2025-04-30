@@ -33,11 +33,7 @@ EduFeeTrack follows a **client-server**, layered architecture:
 4. **Report Generation**:
    - **Tech**: ReportLab 3.6.12.
    - **Role**: Creates PDF reports in `reports/`.
-   - **EduFeeTrack**: Includes fine data in reports for transparency.
-
-### File Structure
-
-EduFeeTrack/ ├── app.py # Flask application ├── database.py # Database setup and operations ├── requirements.txt # Dependencies ├── static/ │ ├── css/ │ │ └── custom.css # Custom styles │ └── js/ │ └── custom.js # Custom JavaScript ├── templates/ │ ├── base.html # Base template │ ├── login.html # Login page │ ├── dashboard.html # Dashboard │ ├── add_student.html # Add student form │ ├── financial.html # Financial details │ ├── payment_history.html # Payment history │ └── edufeetrack_config.html # EduFeeTrack config └── reports/ └── payment_report.pdf # Generated reports
+   - **EduFeeTrack**: Includes fine data in reports for transparency
 
 
 ## What EduFeeTrack Does
