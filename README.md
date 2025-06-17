@@ -73,7 +73,7 @@ python app.py
 
 
 
-Access at http://localhost:5000.
+Access at http://localhost:5000/login.
 
 Usage
 
