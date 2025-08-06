@@ -47,7 +47,7 @@ The system automates fee management with the **EduFeeTrack** integration as its 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/EduFeeTrack.git
+   git clone https://github.com/DannySye/EduFeeTrack.git
    cd EduFeeTrack
 
 
